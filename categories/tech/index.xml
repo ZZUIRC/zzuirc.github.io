@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on ZZU IRC Lab</title>
-    <link>https://zzuirc.github.io/categories/tech/</link>
+    <link>https://dhkdwp.github.io/zzuirc.github.io/categories/tech/</link>
     <description>Recent content in Tech on ZZU IRC Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://zzuirc.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://dhkdwp.github.io/zzuirc.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Example Post</title>
-      <link>https://zzuirc.github.io/post/blog/</link>
+      <link>https://dhkdwp.github.io/zzuirc.github.io/post/blog/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zzuirc.github.io/post/blog/</guid>
+      <guid>https://dhkdwp.github.io/zzuirc.github.io/post/blog/</guid>
       <description></description>
     </item>
     
