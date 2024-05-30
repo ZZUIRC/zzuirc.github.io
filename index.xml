@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZZU IRC Lab</title>
-    <link>https://dhkdwp.github.io/zzuirc.github.io/</link>
+    <link>https://zzuirc.github.io/</link>
     <description>Recent content on ZZU IRC Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://dhkdwp.github.io/zzuirc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://zzuirc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Example Post</title>
-      <link>https://dhkdwp.github.io/zzuirc.github.io/post/blog/</link>
+      <link>https://zzuirc.github.io/post/blog/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dhkdwp.github.io/zzuirc.github.io/post/blog/</guid>
+      <guid>https://zzuirc.github.io/post/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://dhkdwp.github.io/zzuirc.github.io/about/</link>
+      <link>https://zzuirc.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dhkdwp.github.io/zzuirc.github.io/about/</guid>
+      <guid>https://zzuirc.github.io/about/</guid>
       <description>About Me Hi, I am Jie Wang , Ph.D. in Engineering, Master&amp;rsquo;s Supervisor, and Lecturer at the School of Mechanical and Power Engineering at Zhengzhou University. My main research areas include machine technology, robust control, reinforcement learning, model predictive control, optimization algorithms, etc. I have published more than 10 SCI papers in international journals such as IEEE/ASME Transactions on Mechatronics, IEEE Sensors Journal.
 Contact: zzuwj@zzu.edu.cn
 Basic Information          Office Location Room 403, School of Mechanical and Power Engineering, Zhengzhou University   Contact Information zzuwj@zzu.</description>
@@ -29,28 +29,28 @@ Basic Information          Office Location Room 403, School of Mechanical and Po
     
     <item>
       <title></title>
-      <link>https://dhkdwp.github.io/zzuirc.github.io/labinfo/</link>
+      <link>https://zzuirc.github.io/labinfo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dhkdwp.github.io/zzuirc.github.io/labinfo/</guid>
+      <guid>https://zzuirc.github.io/labinfo/</guid>
       <description>About Zhengzhou University Intelligent Robotics &amp;amp; Control Lab 智能机器人与控制实验室 智能机器人与控制实验室隶属于郑州大学机械与动力工程学院智能机电研究所，主要聚焦于不限于机器狗，人形机器</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://dhkdwp.github.io/zzuirc.github.io/research/</link>
+      <link>https://zzuirc.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dhkdwp.github.io/zzuirc.github.io/research/</guid>
+      <guid>https://zzuirc.github.io/research/</guid>
       <description>过往项目展示 机械臂的外力观测器设计 用于核电站远程拆除实感主从液压机械臂开发 基于PLCopen标准的机器人运动控制PLC运动程序开发 用于工业部</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://dhkdwp.github.io/zzuirc.github.io/search/placeholder/</link>
+      <link>https://zzuirc.github.io/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dhkdwp.github.io/zzuirc.github.io/search/placeholder/</guid>
+      <guid>https://zzuirc.github.io/search/placeholder/</guid>
       <description></description>
     </item>
     
