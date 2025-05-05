@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ZZU IRC Lab</title>
+    <title>欢迎访问智能机器人与控制实验室 on ZZU IRC Lab</title>
     <link>https://zzuirc.github.io/</link>
-    <description>Recent content on ZZU IRC Lab</description>
+    <description>Recent content in 欢迎访问智能机器人与控制实验室 on ZZU IRC Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://zzuirc.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>An Example Post</title>
-      <link>https://zzuirc.github.io/post/blog/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://zzuirc.github.io/post/blog/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://zzuirc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://zzuirc.github.io/about/</link>
@@ -25,15 +15,6 @@
       <description>About Me Hi, I am Jie Wang , Ph.D. in Engineering, Master&amp;rsquo;s Supervisor, and Lecturer at the School of Mechanical and Power Engineering at Zhengzhou University. My main research areas include machine technology, robust control, reinforcement learning, model predictive control, optimization algorithms, etc. I have published more than 10 SCI papers in international journals such as IEEE/ASME Transactions on Mechatronics, IEEE Sensors Journal.
 Contact: zzuwj@zzu.edu.cn
 Basic Information          Office Location Room 403, School of Mechanical and Power Engineering, Zhengzhou University   Contact Information zzuwj@zzu.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zzuirc.github.io/labinfo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zzuirc.github.io/labinfo/</guid>
-      <description>About Zhengzhou University Intelligent Robotics &amp;amp; Control Lab 智能机器人与控制实验室 智能机器人与控制实验室隶属于郑州大学机械与动力工程学院智能机电研究所，主要聚焦于不限于机器狗，人形机器</description>
     </item>
     
     <item>
@@ -52,6 +33,15 @@ Basic Information          Office Location Room 403, School of Mechanical and Po
       
       <guid>https://zzuirc.github.io/search/placeholder/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>aboutLab</title>
+      <link>https://zzuirc.github.io/labinfo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zzuirc.github.io/labinfo/</guid>
+      <description>About Zhengzhou University Intelligent Robotics &amp;amp; Control Lab 欢迎 志同道合，有常识的学生联系! 智能机器人与控制实验室 本科生培养 招生方向 [1] 080202 机械电子工程：07(全日制)机器人及精密运动控制</description>
     </item>
     
   </channel>
