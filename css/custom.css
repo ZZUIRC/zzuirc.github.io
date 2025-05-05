@@ -483,7 +483,9 @@ a img {
 .site-title:hover, .site-title:active, .site-title:focus {
   opacity: 1;
 }
-
+.resized-image {
+  width: 500px;
+}
 .toggle-navigation {
   position: relative;
   float: right;
